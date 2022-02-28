@@ -1,0 +1,37 @@
+{
+    "name": "green-low-contrast",
+    "displayName": "green-low-contrast",
+    "description": "cyberSpice's low contrast color theme",
+    "version": "0.0.1",
+    "publisher": "cyberSpice",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/alxspice/green-low-contrast-theme"
+    },
+
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+
+    "keywords": [
+        "theme", 
+        "dark theme", 
+        "cyberSpice", 
+        "green-low-contrast", 
+        "green", 
+        "low contrast"
+    ],
+
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "green-low-contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/green-low-contrast-color-theme.json"
+            }
+        ]
+    }
+}
