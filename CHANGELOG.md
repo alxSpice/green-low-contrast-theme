@@ -1,4 +1,11 @@
+#### 0.4.0 (2022-03-11)
+### Changed
+- Changed syntax colors (strings and keywords)
+
 #### 0.3.0 (2022-03-11)
+### Changed
+- Changed sidebar background color
+- Fixed borders, terminal and some syntax colors
 
 # Change Log
 
