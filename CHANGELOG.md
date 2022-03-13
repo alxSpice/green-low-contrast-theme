@@ -1,6 +1,8 @@
-#### 0.5.2 (2022-03-14)
+#### 0.6.0 (2022-03-14)
 ### Added
 - Background for on hover event for the tabs
+### Changed
+- Some interface colors
 
 #### 0.4.0 (2022-03-11)
 ### Changed
