@@ -1,3 +1,8 @@
+#### 0.11.0 (2022-21-05)
+### Changed
+- Editor background color a bit darker
+- Numbers color 
+
 #### 0.9.0 (2022-05-04)
 ### Changed
 - Syntax colors
@@ -15,13 +20,3 @@
 ### Changed
 - Changed sidebar background color
 - Changed borders, terminal and some syntax colors
-
-# Change Log
-
-All notable changes to the "green-low-contrast" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
