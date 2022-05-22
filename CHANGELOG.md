@@ -1,3 +1,11 @@
+#### 0.12.0 (2022-22-05)
+### Changed
+# Status bar, side bar borders color
+- Editor indent lines color
+- Active brackets border color
+- Some selection areas' color
+- Some tiny changes
+
 #### 0.11.0 (2022-21-05)
 ### Changed
 - Editor background color a bit darker
