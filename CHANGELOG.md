@@ -1,6 +1,11 @@
+#### 0.13.0 (2022-08-06)
+### Changed
+- Navigator scroll bar color
+- Status bar online-icon color
+
 #### 0.12.0 (2022-22-05)
 ### Changed
-# Status bar, side bar borders color
+- Status bar, side bar borders color
 - Editor indent lines color
 - Active brackets border color
 - Some selection areas' color
