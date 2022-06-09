@@ -1,3 +1,8 @@
+#### 0.14.0 (2022-09-06)
+### Changed
+- Activity bar badge color
+- Status bar online-icon color
+
 #### 0.13.0 (2022-08-06)
 ### Changed
 - Navigator scroll bar color
