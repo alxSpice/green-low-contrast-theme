@@ -3,7 +3,7 @@
     "displayName": "green-low-contrast",
     "description": "cyberSpice's low contrast color theme",
     "icon": "images/green-low-contrast-icon.png",
-    "version": "0.14.0",
+    "version": "0.15.0",
     "publisher": "cyberSpice",
     "repository": {
         "type": "git",
