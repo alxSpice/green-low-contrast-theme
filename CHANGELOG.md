@@ -1,3 +1,9 @@
+#### 0.15.0 (2022-26-06)
+### Changed
+- Syntax colors (class)
+### Added
+- Breadcrumbs panel's border
+
 #### 0.14.0 (2022-09-06)
 ### Changed
 - Activity bar badge color
