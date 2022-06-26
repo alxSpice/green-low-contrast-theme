@@ -1,6 +1,12 @@
+#### 0.16.0 (2022-26-06)
+### Changed
+- Syntax colors (numbers)
+- Explorer active item's background color
+
 #### 0.15.0 (2022-26-06)
 ### Changed
 - Syntax colors (class)
+
 ### Added
 - Breadcrumbs panel's border
 
