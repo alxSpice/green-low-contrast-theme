@@ -1,3 +1,7 @@
+#### 0.17.0 (2022-27-06)
+### Changed
+- Syntax colors (numbers)
+
 #### 0.16.0 (2022-26-06)
 ### Changed
 - Syntax colors (numbers)
