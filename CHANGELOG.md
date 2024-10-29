@@ -1,3 +1,7 @@
+#### 0.20.0 (2024-30-10)
+### Changed
+- Syntax colors: keywords
+
 #### 0.17.0 (2022-27-06)
 ### Changed
 - Syntax colors (numbers)
