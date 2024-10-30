@@ -1,3 +1,7 @@
+#### 0.21.0 (2024-30-10)
+### Changed
+- Syntax colors: classes-constants, numbers, strings, variables-properties
+
 #### 0.20.0 (2024-30-10)
 ### Changed
 - Syntax colors: keywords
