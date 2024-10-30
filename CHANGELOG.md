@@ -1,4 +1,4 @@
-#### 0.25.0 (2024-30-10)
+#### 0.26.0 (2024-31-10)
 ### Changed
 - Syntax colors: classes-constants, numbers, strings, variables-properties
 
